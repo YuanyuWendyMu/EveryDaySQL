@@ -1,0 +1,2 @@
+# EveryDaySQL
+SQL Interview Prep
