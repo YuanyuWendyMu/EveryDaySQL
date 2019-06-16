@@ -1,5 +1,6 @@
 # Write your MySQL query statement below
-SELECT *
+
+SELECT distinct l1.num  as ConsecutiveNums
 FROM
     Logs l1,
     Logs l2,
